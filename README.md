@@ -21,7 +21,7 @@ This repository highlights my process for scraping data from the internrt using 
 
 
  ## 📝 Notes
-The static scraping example uses books.toscrape.com (a practice website) and also wikipedia GDP forecast by country
+The static scraping example uses books.toscrape.com (a practice website) and also wikipedia list of Highest-grossing films.
 
 The dynamic scraping example uses a demo site with JavaScript-loaded content.
 
